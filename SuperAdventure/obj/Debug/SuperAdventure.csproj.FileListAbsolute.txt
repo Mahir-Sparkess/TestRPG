@@ -1,0 +1,12 @@
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+D:\Workspace\C# rpg\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
